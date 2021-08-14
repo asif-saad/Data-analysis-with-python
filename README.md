@@ -7,6 +7,8 @@
 ### **dataset source:** https://github.com/asif-saad/Data-analysis-with-python/tree/master/test_bowlers_analysis
 <br/>
 
+**OBJECTIVES**
+
 -  importing the test_cricket.xlsx file in your jupyter notebook. Read the sheet 'wickets' from there
 
 - displaying the first 10 rows of the dataframe
