@@ -4,7 +4,8 @@
 ## Task 1: Test bowler analysis
 <br/>
 
-### **dataset source:** https://github.com/asif-saad/Data-analysis-with-python/tree/master/test_bowlers_analysis
+### **dataset source:** https://github.com/SKawsar/Data_Analysis_with_Python/blob/main/test_cricket.xlsx
+### **actual source:** https://stats.espncricinfo.com/ci/content/records/93276.html
 <br/>
 
 **OBJECTIVES**
