@@ -1,25 +1,64 @@
 # DATA ANALYSIS WITH PYTHON
 
+<br/>
+<br/>
 
 ## Task 1: Test bowler analysis
 <br/>
 
-### **dataset source:** https://github.com/SKawsar/Data_Analysis_with_Python/blob/main/test_cricket.xlsx
-### **actual source:** https://stats.espncricinfo.com/ci/content/records/93276.html
+### **Dataset Source:** https://github.com/SKawsar/Data_Analysis_with_Python/blob/main/test_cricket.xlsx
+### **Actual Source:** 
+https://stats.espncricinfo.com/ci/content/records/93276.html
+
+### **Notebook**
+https://github.com/asif-saad/Data-analysis-with-python/tree/master/test_bowlers_analysis
+
+
+
 <br/>
+<br/>
+
+
 
 **OBJECTIVES**
 
--  importing the test_cricket.xlsx file in your jupyter notebook. Read the sheet 'wickets' from there
+---
 
-- displaying the first 10 rows of the dataframe
+-  Importing the test_cricket.xlsx file in your jupyter notebook. Read the sheet 'wickets' from there
 
-- finding the number of rows and columns in the dataframe
+- Displaying the first 10 rows of the dataframe
 
-- finding the data statistics and check for the data types
+- Finding the number of rows and columns in the dataframe
 
-- showing number of missing values present in the dataset
+- Finding the data statistics and check for the data types
 
-- renameing the column names appropriately
+- Showing number of missing values present in the dataset
 
-- removing a column from the dataframe
+- Renameing the column names appropriately
+
+- Removing a column from the dataframe
+
+- Removing the columns BBI and BBM
+
+- Number of players played for ICC
+
+- Number of countries players present
+
+- Name of the player with longest period played
+
+- Name of the player with shortest period played
+
+- Number of Australian Bowlers present
+
+- Whether any Bangladeshi Player present
+
+- Name of the Bowler with the lowest strike rate
+
+- Name of the Bowler with the lowest economy rate
+
+- Name of the Bowler with the lowest Bowling average
+
+
+
+
+
